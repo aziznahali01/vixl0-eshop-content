@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Citra",
+    "console": "3DS",
+    "franchise": "Emulators",
+    "description": "Citra for 3DS.",
+    "size": "77.6MB",
+    "cover": "covers\\citra.png",
+    "driveFileId": "15kk87IHQQeVseAPlqrjrTKTO0pNvUUI8",
+    "directUrl": "https://drive.google.com/uc?id=15kk87IHQQeVseAPlqrjrTKTO0pNvUUI8&export=download"
+  },
+  {
+    "title": "puNES",
+    "console": "NES",
+    "franchise": "Emulators",
+    "description": "puNES for NES.",
+    "size": "67MB",
+    "cover": "covers\\punes.png",
+    "driveFileId": "1Wa9DqYkNkUG62Y2rAmh3KBbeUj6v0fOP",
+    "directUrl": "https://drive.google.com/uc?id=1Wa9DqYkNkUG62Y2rAmh3KBbeUj6v0fOP&export=download"
+  },
+  {
+    "title": "snes9x",
+    "console": "SNES",
+    "franchise": "Emulators",
+    "description": "snes9x for SNES.",
+    "size": "13.6MB",
+    "cover": "covers\\snes9x.png",
+    "driveFileId": "1TeX658ql_m5PEiBXPOySReaC-ciVHLFs",
+    "directUrl": "https://drive.google.com/uc?id=1TeX658ql_m5PEiBXPOySReaC-ciVHLFs&export=download"
+  },
+  {
+    "title": "PPSSPP",
+    "console": "PSP",
+    "franchise": "Emulators",
+    "description": "PPSSPP for PSP.",
+    "size": "60.9MB",
+    "cover": "covers\\ppsspp.png",
+    "driveFileId": "1QlByuLWYVb2n4R7hGXfRo2Lyj8R17MzF",
+    "directUrl": "https://drive.google.com/uc?id=1QlByuLWYVb2n4R7hGXfRo2Lyj8R17MzF&export=download"
+  },
+  {
+    "title": "Project64",
+    "console": "N64",
+    "franchise": "Emulators",
+    "description": "Project64 for N64.",
+    "size": "14.3MB",
+    "cover": "covers\\project64.png",
+    "driveFileId": "1D01SIKiZN5TLKc3UOFNghH2Pcx8NWZzC",
+    "directUrl": "https://drive.google.com/uc?id=1D01SIKiZN5TLKc3UOFNghH2Pcx8NWZzC&export=download"
+  },
+  {
+    "title": "mGBA",
+    "console": "GBA",
+    "franchise": "Emulators",
+    "description": "mGBA for GBA.",
+    "size": "21.7MB",
+    "cover": "covers\\mgba.png",
+    "driveFileId": "12Ta0ZoMZE68G0hm5hiPOK6cDHbppoMAu",
+    "directUrl": "https://drive.google.com/uc?id=12Ta0ZoMZE68G0hm5hiPOK6cDHbppoMAu&export=download"
+  },
+  {
+    "title": "MelonDS",
+    "console": "DS",
+    "franchise": "Emulators",
+    "description": "MelonDS for DS.",
+    "size": "19.9MB",
+    "cover": "covers\\melonds.png",
+    "driveFileId": "1D3-1rSrVQzKaEnBFh6O9idi0369-qVX9",
+    "directUrl": "https://drive.google.com/uc?id=1D3-1rSrVQzKaEnBFh6O9idi0369-qVX9&export=download"
+  },
+  {
+    "title": "Dolphin",
+    "console": "Wii/Gamecube",
+    "franchise": "Emulators",
+    "description": "Dolphin for Wii/Gamecube.",
+    "size": "26.9 MB",
+    "cover": "covers\\dolphin.png",
+    "driveFileId": "1lGIWk1s0hrP09jSgSt2w-TSjSA-M3FZc",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1lGIWk1s0hrP09jSgSt2w-TSjSA-M3FZc"
+  },
+  {
+    "title": "DuckStation",
+    "console": "PS1",
+    "franchise": "Emulators",
+    "description": "DuckStation for PS1.",
+    "size": "94.4 MB",
+    "cover": "covers\\duckstation.png",
+    "driveFileId": "1cB4H0eLZWDEC_yMcfKf8GgUw9b5ma43I",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1cB4H0eLZWDEC_yMcfKf8GgUw9b5ma43I"
+  },
+  {
+    "title": "PCSX2",
+    "console": "PS2",
+    "franchise": "Emulators",
+    "description": "PCSX2 for PS2.",
+    "size": "52.5 MB",
+    "cover": "covers\\pcsx2.png",
+    "driveFileId": "1KpQfV7EdaCYFgKEvgDtr2T1O3LU2OjOc",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1KpQfV7EdaCYFgKEvgDtr2T1O3LU2OjOc"
+  },
+  {
+    "title": "PokeMini",
+    "console": "Pokemon Mini",
+    "franchise": "Emulators",
+    "description": "PokeMini for Pokemon Mini.",
+    "size": "0.1 MB",
+    "cover": "covers\\pokemini.png",
+    "driveFileId": "1Q0n7ptK43cyGEj3RbdirsSG72-eiLm5M",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1Q0n7ptK43cyGEj3RbdirsSG72-eiLm5M"
+  },
+  {
+    "title": "RedDragon",
+    "console": "Virtual Boy",
+    "franchise": "Emulators",
+    "description": "RedDragon for Virtual Boy.",
+    "size": "0.4 MB",
+    "cover": "covers\\reddragon.png",
+    "driveFileId": "1KQ9LTiuxEkD-PxgE1HYngl4aJ-wPHjDA",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1KQ9LTiuxEkD-PxgE1HYngl4aJ-wPHjDA"
+  },
+  {
+    "title": "Ryujinx",
+    "console": "Switch",
+    "franchise": "Emulators",
+    "description": "Ryujinx for Switch.",
+    "size": "33.4 MB",
+    "cover": "covers\\ryujinx.png",
+    "driveFileId": "10yB8Q4zKh5kJNWXJ4z8Uih-JFkDo0UgT",
+    "directUrl": "https://drive.google.com/uc?export=download&id=10yB8Q4zKh5kJNWXJ4z8Uih-JFkDo0UgT"
+  }
+]

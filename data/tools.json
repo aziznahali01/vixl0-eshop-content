@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tool_1",
+    "title": "3DS Decrypter",
+    "category": "Utilities",
+    "console": "3DS",
+    "franchise": "Tools",
+    "description": "Decrypter to decrypt 3ds games that citra won't open.",
+    "size": "5.1 MB",
+    "cover": "3dsdecrypter.png",
+    "driveFileId": "1YzyTKw40j3ldq7royxq1DPU6ldjlDQPl",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1YzyTKw40j3ldq7royxq1DPU6ldjlDQPl"
+  },
+  {
+    "id": "tool_2",
+    "title": "7-Zip",
+    "category": "Utilities",
+    "console": "Utilities",
+    "franchise": "Tools",
+    "description": "Archive manager for .zip/.7z/.rar extraction.",
+    "size": "2 MB",
+    "cover": "7zip.png",
+    "driveFileId": "1g-F0UkzfJ46FT9jh4bl3bcOHXjgKLnKS",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1g-F0UkzfJ46FT9jh4bl3bcOHXjgKLnKS"
+  }
+]

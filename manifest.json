@@ -1,0 +1,1231 @@
+{
+  "version": "20260306221553",
+  "generatedAt": "2026-03-06T22:15:56.714308+00:00",
+  "files": [
+    {
+      "path": "data/games.json",
+      "sha256": "e7df445fb8c237166d2d66513b2712e2abbcd1ca8858fe9e4fd8f597d838a370",
+      "size": 185266
+    },
+    {
+      "path": "data/emulators.json",
+      "sha256": "eb4c1857e6c15f66c6cc23bf82c0fad16701d43cf275bae831424676d69b976b",
+      "size": 4581
+    },
+    {
+      "path": "data/tools.json",
+      "sha256": "50bb38bc7f0f076175d4eee7ea345f9da7813bd794946da38b8c0fc7d45e7331",
+      "size": 829
+    },
+    {
+      "path": "covers/3-d_tetris.png",
+      "sha256": "70fe0669a75a87d0f133312b5039792a9ce19cb751887dd0a7a07b885d290982",
+      "size": 282648
+    },
+    {
+      "path": "covers/3dsdecrypter.png",
+      "sha256": "2405a8b9fb6de31696b34c4240295a8f5d1ec69d1c6eca38d96d329e8dc047b5",
+      "size": 201622
+    },
+    {
+      "path": "covers/7zip.png",
+      "sha256": "50500fb6f4bb79ff7f4c22b5346acd833ad072e1ad375dc0cfa8195d0d4c073a",
+      "size": 17697
+    },
+    {
+      "path": "covers/advance_wars.png",
+      "sha256": "8b0fd45a28984ab2c80066175917133c4f148b2ee81092f36a61d711d848fd9b",
+      "size": 662651
+    },
+    {
+      "path": "covers/advance_wars_-_days_of_ruin.png",
+      "sha256": "2fb8bcd86c1a28076e576e6273cf86d42d5172c19bd5531cfd4b9882d1655037",
+      "size": 542399
+    },
+    {
+      "path": "covers/advance_wars_2_-_black_hole_rising.png",
+      "sha256": "0a9a61c882b107266a8dfd00f539b25f46b17c8bd7aa8c0392920240dcde0275",
+      "size": 414212
+    },
+    {
+      "path": "covers/animal_crossing_-_wild_world.png",
+      "sha256": "5321984a2a3157cdd2c669490d7097fbce025b434877bfa330a9fb95ce767b2f",
+      "size": 547463
+    },
+    {
+      "path": "covers/animal_crossing_new_leaf.png",
+      "sha256": "27c0b877641424435d4cc2fe5675854a07eaf5b1d34561b18baa13367df80861",
+      "size": 1786168
+    },
+    {
+      "path": "covers/atari_anniversary_advance.png",
+      "sha256": "1160f4d37fbe59d906f213c3ba3e4ed62e32042b2c9bbeccf70e790f9b8ddcc3",
+      "size": 1489173
+    },
+    {
+      "path": "covers/balloon_fight.png",
+      "sha256": "8f561c313ff482a1c13e8d2cc97b6f6bec5e58c57b5969163ca1909144d9a6a5",
+      "size": 175978
+    },
+    {
+      "path": "covers/bomberman.png",
+      "sha256": "ffec7ef5a54b0a7e0b153e5560b189feda484ac57596f681f57e53f3b1837225",
+      "size": 275874
+    },
+    {
+      "path": "covers/bomberman_64.png",
+      "sha256": "0d3d7be346e0c4e30a0e1ec78d04b31168b75b79c76a96f8eca46ed042d8780d",
+      "size": 96793
+    },
+    {
+      "path": "covers/bomberman_64_the_second_attack.png",
+      "sha256": "153af5e157ce75e802d1abb7e2a4b29e0643f081291a7511423894fc4372165e",
+      "size": 210532
+    },
+    {
+      "path": "covers/captain_toad_treasure_tracker.png",
+      "sha256": "ec5bf013df7b8c543bfb6bc746f11bf02c3367ddeab0e974389df76623c28281",
+      "size": 454091
+    },
+    {
+      "path": "covers/citra.png",
+      "sha256": "0b1976800b5383631d7de4cbb39ad51093a106b38367d88edea8c97e70e3a361",
+      "size": 42306
+    },
+    {
+      "path": "covers/crash_bandicoot.png",
+      "sha256": "82e8f61fd4999c7d8d3913c163c1bf689da7be8112ff9bc2302bf2c1c70bbdf8",
+      "size": 525018
+    },
+    {
+      "path": "covers/crash_bandicoot_2_cortex_strikes_back.png",
+      "sha256": "559ade4bba6bce75084e91f4f404a893c21ff410b8af335ff3ef8e3850cc99d4",
+      "size": 615516
+    },
+    {
+      "path": "covers/crash_bandicoot_warped.png",
+      "sha256": "950ff4260152a74cea81978ef310f66971c6d9d7d5cea9a00b70429fe3bde55c",
+      "size": 463896
+    },
+    {
+      "path": "covers/crash_team_racing_ctr.png",
+      "sha256": "13fbf42ef859a938485c7685d1e2b59be7a5a792889fd9c608234baac0d7d986",
+      "size": 451174
+    },
+    {
+      "path": "covers/danganronpa.png",
+      "sha256": "81d0c5e4e5366d6db184a290f4bd73e8d09a40eb6d302c9b0c27360ed69d585a",
+      "size": 492030
+    },
+    {
+      "path": "covers/danganronpa_-_trigger_happy_havoc_original_japanease.png",
+      "sha256": "81d0c5e4e5366d6db184a290f4bd73e8d09a40eb6d302c9b0c27360ed69d585a",
+      "size": 492030
+    },
+    {
+      "path": "covers/diddy_kong_racing.png",
+      "sha256": "50fe25aa410145cd0107a2951833eceb5c894a0e7a72b8a15607ee27bc0ef67d",
+      "size": 468228
+    },
+    {
+      "path": "covers/dk_-_jungle_climber.png",
+      "sha256": "ea9b4db4303e4d62e0a5faac62cbae2547e70f461553e4efacb321688684078b",
+      "size": 324213
+    },
+    {
+      "path": "covers/dolphin.png",
+      "sha256": "f09afa5bfa85251efda836f31b9d6b8548e5d7de5ead30a00a1a45ef7f6816c9",
+      "size": 324859
+    },
+    {
+      "path": "covers/donkey_kong.png",
+      "sha256": "b4bdddeabf54f63b829cc08f8cba0313cba537dc957008bf8a4f130b4c5c980e",
+      "size": 269904
+    },
+    {
+      "path": "covers/donkey_kong_-_king_of_swing.png",
+      "sha256": "d730b219690ce4d6b77b9b24a54d457a7e0fbbadfa791d122ab7fc59847f0424",
+      "size": 285433
+    },
+    {
+      "path": "covers/donkey_kong_64.png",
+      "sha256": "01e1a7bbfd9c1515cabae9a107cac8be069bf72c03fb66306506e5747795eb75",
+      "size": 505634
+    },
+    {
+      "path": "covers/donkey_kong_country.png",
+      "sha256": "b795b43b668b36a8c5456ae148cb0f4e6131af6ac0692deac97423592676b784",
+      "size": 597644
+    },
+    {
+      "path": "covers/donkey_kong_country_2.png",
+      "sha256": "4919b9af40e9028572462c9b8891da4144cc7b25850dd4b67a5c429ac8a95185",
+      "size": 549831
+    },
+    {
+      "path": "covers/donkey_kong_country_2_diddy's_kong_quest.png",
+      "sha256": "4919b9af40e9028572462c9b8891da4144cc7b25850dd4b67a5c429ac8a95185",
+      "size": 549831
+    },
+    {
+      "path": "covers/donkey_kong_country_3.png",
+      "sha256": "fe45fd24600afc302e0082bcaa7c7ce1af9334a782d004f103676bac94a8e7f3",
+      "size": 538266
+    },
+    {
+      "path": "covers/donkey_kong_country_3_dixie_kong's_double_trouble.png",
+      "sha256": "fc2888be1c68f33f557cc1c5ee0a183a28ec7e4412d4f750e6fe027a306b76e7",
+      "size": 98314
+    },
+    {
+      "path": "covers/donkey_kong_jr.png",
+      "sha256": "8b468abba9df6b1d635e88b763ae176d43e36d8c9e84ebe309999d0bf213742e",
+      "size": 394485
+    },
+    {
+      "path": "covers/doom.png",
+      "sha256": "3b3ef91c4ef7dcb808491cca9bddd745f33df487f8fb28fb9835bbcff81b88f1",
+      "size": 121313
+    },
+    {
+      "path": "covers/dr_mario.png",
+      "sha256": "2c8fd0eb4547f87c4f3971980d25b1ccca516b1a13bbb925ebd7f5c92bfb6c05",
+      "size": 323338
+    },
+    {
+      "path": "covers/dr_mario_puzzle_league.png",
+      "sha256": "b05e429bb17fd6c9f1b36be9f0fa25c77774087443fe3e552253afca703c66ef",
+      "size": 813923
+    },
+    {
+      "path": "covers/duck_hunt.png",
+      "sha256": "585bf3de7daa9a2a5fa94a37efb9475764d61e124074008a29174c5e71002fe8",
+      "size": 85661
+    },
+    {
+      "path": "covers/duckstation.png",
+      "sha256": "08e0063a294c49c5db191b40abd7faaa40720502513e519321a496a30da9f16d",
+      "size": 116510
+    },
+    {
+      "path": "covers/earthbound.png",
+      "sha256": "9a3a218b273032a9ede7e34ce1f989ba6d0157177155b2c23be8d247415f83a3",
+      "size": 297289
+    },
+    {
+      "path": "covers/excitebike.png",
+      "sha256": "82b59e2feae4b7a7890c5da85d16192b8d873436b36afd94454725722ed6690a",
+      "size": 339659
+    },
+    {
+      "path": "covers/excitebike_64.png",
+      "sha256": "98514b00b2680797cc6209f6470ad3446849c67ef6f16a96701bf307b63038b1",
+      "size": 84973
+    },
+    {
+      "path": "covers/f-zero.png",
+      "sha256": "15802fffd4836c79f668e907a3306a22e7ef1dee95aab191507d2549b88baccc",
+      "size": 520444
+    },
+    {
+      "path": "covers/f-zero_x.png",
+      "sha256": "9649f0e2aa8ed323ed56ea4818b3bac4089d24252b7fccc38f3e7d2607a0d232",
+      "size": 525933
+    },
+    {
+      "path": "covers/final_fantasy_-_mystic_quest.png",
+      "sha256": "fb0c9ce05f8a755a01d96413638f56c65579aa56c6b1ddb51a5e12944ff61eeb",
+      "size": 309239
+    },
+    {
+      "path": "covers/final_fantasy_ii.png",
+      "sha256": "d63b02032ec8c99e8bdde1890f141f3fd127e92ca08610499a6e81bb8f7025ff",
+      "size": 515464
+    },
+    {
+      "path": "covers/final_fantasy_iii.png",
+      "sha256": "38768ee4a05c30aa460eef19d6f0f07e350d1a78cd3ffcf6afebc6cc109d82ba",
+      "size": 1104116
+    },
+    {
+      "path": "covers/fire_emblem.png",
+      "sha256": "e36594f4da505d5722178885cc4d0a9c72b6b01d284388ccbfbad3e9537f75d4",
+      "size": 400887
+    },
+    {
+      "path": "covers/fire_emblem_-_the_sacred_stones.png",
+      "sha256": "c7d1a5f884200e22f7a95edad8b2b10fffd680f2a7cbee4c5642b889096a8679",
+      "size": 596979
+    },
+    {
+      "path": "covers/game_watch_gallery_advance.png",
+      "sha256": "febc08b8e266ee27515091ead06e8a2d87d83c87349f75aee45b2bb851a5ea01",
+      "size": 1627732
+    },
+    {
+      "path": "covers/goldeneye_007.png",
+      "sha256": "7ccc503b040df2ef21cb8cc013058bb44e627b07d65bdede014bac5999cd7330",
+      "size": 287245
+    },
+    {
+      "path": "covers/grand_theft_auto_advance.png",
+      "sha256": "f174ed6296b9428a694e3fc23956e2c3090d6413cf154fc6295cc0c78546320d",
+      "size": 103224
+    },
+    {
+      "path": "covers/gta_liberty_city_stories.png",
+      "sha256": "cb6ed299902b46fbee1350bd9a45e99f86e3e3a14b06e62701d5a1257787a6ae",
+      "size": 101063
+    },
+    {
+      "path": "covers/gta_vice_city_stories.png",
+      "sha256": "19ff6e8795c09e6288e1308ae39f384748beb10627d228dfdc42092a2f3204c7",
+      "size": 92980
+    },
+    {
+      "path": "covers/hey_pikmin.png",
+      "sha256": "c23e8ea6d5ce620fd43202450cc2bb14ec53e3eb6924613619e70cdb0715c7fc",
+      "size": 504774
+    },
+    {
+      "path": "covers/ice_climber.png",
+      "sha256": "ebd0e34e6dd0deb31ceaeff63521b566b81c8078d749b7bbffd7b7f4c205441d",
+      "size": 90879
+    },
+    {
+      "path": "covers/kid_icarus.png",
+      "sha256": "bd4386d8da155dc67169c0e1b43ce13bdd3320a7b6b2b007d56ecee86b025324",
+      "size": 427893
+    },
+    {
+      "path": "covers/kingdom_hearts_-_chain_of_memories.png",
+      "sha256": "08e279ba0a9705abcee9a490e8e4068d6a273b38a3d211f20b5ce6d5c22accf0",
+      "size": 571920
+    },
+    {
+      "path": "covers/kirby's_adventure.png",
+      "sha256": "ee8fe7875ad3a7e3cbc1b23ff215c2403340cbcba679ee11cc5c99028b415672",
+      "size": 312508
+    },
+    {
+      "path": "covers/kirby's_avalanche.png",
+      "sha256": "2608a6a8839f78828ec005fe461cd041145f2601c537d26a46ca60adcea01cba",
+      "size": 183378
+    },
+    {
+      "path": "covers/kirby's_dream_course.png",
+      "sha256": "1e56175354fd5be9fc5584345274b7fe9bfefc0201a98c0e5579b607643ebf15",
+      "size": 290487
+    },
+    {
+      "path": "covers/kirby's_dream_land_3.png",
+      "sha256": "329abf26aef0af6c561e61eed7774e770cca0c5a5de3795814cc41fdb8f7b80f",
+      "size": 521641
+    },
+    {
+      "path": "covers/kirby's_extra_epic_yarn.png",
+      "sha256": "74925e7c618dc0d2ee42b0972e3dfcc2ce033d4ff0814d0daa7f98e495370d52",
+      "size": 132328
+    },
+    {
+      "path": "covers/kirby_-_canvas_curse.png",
+      "sha256": "09ca1d235b8d4995982e39600f9873e83dc87f0efd0682bb6396d092ccef5cf8",
+      "size": 543720
+    },
+    {
+      "path": "covers/kirby_-_nightmare_in_dreamland.png",
+      "sha256": "2d0d6f19d1088c4b6b9e6ad6deedcb2a1633f35671593470acd92b2f32e005d2",
+      "size": 379976
+    },
+    {
+      "path": "covers/kirby_-_squeak_squad.png",
+      "sha256": "ddc60438311bb6497d4da96a77c617ac035b58d83a2057a36bad0b58fb486553",
+      "size": 601979
+    },
+    {
+      "path": "covers/kirby_64_the_crystal_shards.png",
+      "sha256": "d745b31a7cebe00cf287ed6e93eb5d5d85da57d692b112626092d41d2419a538",
+      "size": 407764
+    },
+    {
+      "path": "covers/kirby_and_the_amazing_mirror.png",
+      "sha256": "85c81e22959b8435687ee293d6544f8ed753d89c338d2dc75aefacdcc50664ca",
+      "size": 1518169
+    },
+    {
+      "path": "covers/kirby_mass_attack.png",
+      "sha256": "efa2e81a478073cc5bb4d3b2dcb65391f7f4e91251c58bd2b7d568f8007a4ee5",
+      "size": 482089
+    },
+    {
+      "path": "covers/kirby_planet_robobot.png",
+      "sha256": "d9a8c2f707766a9d6b85c969268c2994d3896ee1e571b6738ec940b090bab8a8",
+      "size": 637080
+    },
+    {
+      "path": "covers/kirby_super_star.png",
+      "sha256": "3c8ce267f76e7b7471990138feebe989350fe11892e331b717e891fd344cbeb6",
+      "size": 251218
+    },
+    {
+      "path": "covers/kirby_triple_deluxe.png",
+      "sha256": "e2e1d3566e5638fd20c44b754ba9e3afa3f9c95cd22bf39d96a122033158fac3",
+      "size": 485225
+    },
+    {
+      "path": "covers/lego_-_star_wars_-_the_video_game.png",
+      "sha256": "41b448f06eca287199a508090b91be8b1dca0ae1aa43fb7db6a090df9139d779",
+      "size": 427165
+    },
+    {
+      "path": "covers/lego_-_star_wars_2_-_the_original_trilogy.png",
+      "sha256": "618477b027b592abe3071fd58932cfeb661a7824f4124f58eca344a5c03bc3be",
+      "size": 411293
+    },
+    {
+      "path": "covers/littlebigplanet_psp.png",
+      "sha256": "841fb3c7e4c34e42b219e71f9e48e1192e160a449595127803a0bae3d39efd62",
+      "size": 646879
+    },
+    {
+      "path": "covers/luigi's_mansion.png",
+      "sha256": "a41c17eb32c122d20ea4cb46a5371bde47691eb013b4f2fe6ca8b82bb181a83f",
+      "size": 89316
+    },
+    {
+      "path": "covers/luigi's_mansion_dark_moon.png",
+      "sha256": "e4ce574a21f9f79d9ac72a6d355ed5d2e41f8fbb17c0865329b4139c9b90eaa6",
+      "size": 478191
+    },
+    {
+      "path": "covers/mario's_tennis.png",
+      "sha256": "d617870c7828d153204c7e9ef40bbe6846b4209e8bb6e1341618040058390456",
+      "size": 551724
+    },
+    {
+      "path": "covers/mario's_time_machine.png",
+      "sha256": "fc60c8977823bd9aaa0c6a9812b3514429b2599bbadd7863aa18974194490862",
+      "size": 644810
+    },
+    {
+      "path": "covers/mario_advanced_-_mario_bros_2_mario_classic.png",
+      "sha256": "f0d2453fb962cf11a3e1478dc94964c2a9ab08afeba165597086b15ec8a755de",
+      "size": 369924
+    },
+    {
+      "path": "covers/mario_advanced_2_-_mario_world.png",
+      "sha256": "b93f689e7ae2c80d5b1b1bd2fab65dcd9e68b76c77090069152e444b22a608e8",
+      "size": 1041364
+    },
+    {
+      "path": "covers/mario_advanced_4_-_mario_bros_3.png",
+      "sha256": "55bf6c47804688c9c7cc90758175d28777d98ac567ef20d4777875dae427e169",
+      "size": 454424
+    },
+    {
+      "path": "covers/mario_and_luigi_-_superstar_saga.png",
+      "sha256": "22449d9dc612921f86170328bf68949c5f6f01084daa89de305dbb1eb8037411",
+      "size": 1376245
+    },
+    {
+      "path": "covers/mario_bros.png",
+      "sha256": "6ff4d4fe99d38c154da8c92df9f5e94b64b3e64c774d57644a95623d3e348a8e",
+      "size": 376522
+    },
+    {
+      "path": "covers/mario_golf.png",
+      "sha256": "c896f3b2d9a17f356c846a2a183be57efdcf45b59e740906e796172112b1d6ae",
+      "size": 441277
+    },
+    {
+      "path": "covers/mario_golf_-_advance_tour.png",
+      "sha256": "aa85b1da64c00795123fc7eca23047c6b30790b0c0d036e6b2694c5e94bc3c1c",
+      "size": 525945
+    },
+    {
+      "path": "covers/mario_is_missing.png",
+      "sha256": "256eb7152c9e846eef25d8e42d113d1e09dbc1ee366c6be8290587c5a9bd52ea",
+      "size": 107859
+    },
+    {
+      "path": "covers/mario_kart_-_super_circuit.png",
+      "sha256": "cc0ad3845d154e5e9dc2190169703b3b50d6886cc022455280f693166f499492",
+      "size": 294325
+    },
+    {
+      "path": "covers/mario_kart_64.png",
+      "sha256": "bb9d90194d9df82b2f50a902bf1e2971dfb027e29e240a28e66122b7d169b86d",
+      "size": 451666
+    },
+    {
+      "path": "covers/mario_kart_7.png",
+      "sha256": "b8b5048cd4b85da2e41f90d1a2bc6a4a32201deb6b588fcaa8e6596598261a5d",
+      "size": 388608
+    },
+    {
+      "path": "covers/mario_kart_ds.png",
+      "sha256": "ecf2d35d361f9d9e059fdb45484547a34817d68d675a044cadb596691e934793",
+      "size": 988956
+    },
+    {
+      "path": "covers/mario_luigi_-_bowser's_inside_story.png",
+      "sha256": "233a76e21c425f30d6122428ae119f8647548e6e8b972f4dabc451850998fa7e",
+      "size": 318471
+    },
+    {
+      "path": "covers/mario_luigi_-_partners_in_time.png",
+      "sha256": "1757cee1dfbeaa8fc770009351adf2986db52154c7b529b7ebbc6d7c951523b2",
+      "size": 330762
+    },
+    {
+      "path": "covers/mario_luigi_bowser's_inside_story.png",
+      "sha256": "d2d2e01e9645ff9499290297947d22e2d3f0c54e8a640474ee2e8279f45cffcc",
+      "size": 101756
+    },
+    {
+      "path": "covers/mario_luigi_dream_team.png",
+      "sha256": "9bb672fe24e264b856d77b9cb925965f598016ab9f1f9ecba8845100569d92ee",
+      "size": 91341
+    },
+    {
+      "path": "covers/mario_luigi_paper_jam.png",
+      "sha256": "25076cab853aea9b84146fdb4a79cfbdd37800ba55d474330a3e5197957c6162",
+      "size": 311608
+    },
+    {
+      "path": "covers/mario_luigi_superstar_saga.png",
+      "sha256": "22449d9dc612921f86170328bf68949c5f6f01084daa89de305dbb1eb8037411",
+      "size": 1376245
+    },
+    {
+      "path": "covers/mario_party.png",
+      "sha256": "532b14d884e4f6c5685874486b3aee1ce6f1928256cd942c1d4d3bffc6317506",
+      "size": 503125
+    },
+    {
+      "path": "covers/mario_party_2.png",
+      "sha256": "bd70d3bf4bb8e233fa80a3b6156881c6a436ed6908142a83fa46c1af4f551267",
+      "size": 425780
+    },
+    {
+      "path": "covers/mario_party_3.png",
+      "sha256": "e35d70657eb861ee6102b5f45ecab4502576c0ff24bec580c5085e892153a743",
+      "size": 1129385
+    },
+    {
+      "path": "covers/mario_party_ds.png",
+      "sha256": "7e69ad0597e744b2f26463c13b3c202e3dad977ee16a718ad84b4e237be63ecd",
+      "size": 1317517
+    },
+    {
+      "path": "covers/mario_party_star_rush.png",
+      "sha256": "66379968d27e12664d422eee2d0d6ce0d3db46fbc1fd86cfd71be4f8f647a0fa",
+      "size": 320787
+    },
+    {
+      "path": "covers/mario_tennis.png",
+      "sha256": "e7e109bf63485330bf1fb2bd8ed9225a63873d161297bdd90f5f823b1fd8b083",
+      "size": 298840
+    },
+    {
+      "path": "covers/mario_tennis_-_power_tour.png",
+      "sha256": "83f1025f61df0dc0e7d88e4a888234e1cf6c3134097e13665dd7693272f63a55",
+      "size": 475601
+    },
+    {
+      "path": "covers/mario_vs_donkey_kong.png",
+      "sha256": "b7671664170260a5209ec97bfc3660efad24050569199a055837659af6923baa",
+      "size": 367169
+    },
+    {
+      "path": "covers/mario_vs_donkey_kong_-_mini-land_mayhem.png",
+      "sha256": "f7b1d5aebe6c14c9d2b7c0307d4ff3338bf516408f07f741d8744feb582c270d",
+      "size": 1226688
+    },
+    {
+      "path": "covers/mario_vs_donkey_kong_2_-_march_of_the_minis.png",
+      "sha256": "494ec33e044c9e5bf53148d0d8d26ea1fddb84c1fcb275e06bf90bbac642b918",
+      "size": 692237
+    },
+    {
+      "path": "covers/mario_vs_donkey_kong_tipping_stars.png",
+      "sha256": "e75e9f518b46d1457576eab42f7cd7145e4940425f7c9966ad718c91b1a85d96",
+      "size": 552907
+    },
+    {
+      "path": "covers/mega_man.png",
+      "sha256": "f91bcd0b8a9cd30fdb40a310937dcd123d67ee38fb247cff6beedb3dca00ef03",
+      "size": 426153
+    },
+    {
+      "path": "covers/mega_man_2.png",
+      "sha256": "97bf271d80b97b405e0f5f5713b4eeecf74f3b759f1f810492f0cc72428468f9",
+      "size": 529656
+    },
+    {
+      "path": "covers/mega_man_3.png",
+      "sha256": "d537f05f6aa7bdfa172b299fdc8f684631edd114cf5b754d06a0fd681e2fce65",
+      "size": 477460
+    },
+    {
+      "path": "covers/mega_man_4.png",
+      "sha256": "b3f6b5c4053853ecc23b8cd9868ad767c5eaed64c0c290d3be5675eb1a9d525b",
+      "size": 507990
+    },
+    {
+      "path": "covers/mega_man_5.png",
+      "sha256": "1b938a6aefe6012ed34b2406f6921d638ea7dc01e94d4166db2fdddcd05ead70",
+      "size": 476906
+    },
+    {
+      "path": "covers/mega_man_6.png",
+      "sha256": "fcce314b4af1c543ec5b852d0471ad57c407d99f8a0aa38cbcdad48f15381cbf",
+      "size": 506148
+    },
+    {
+      "path": "covers/mega_man_64.png",
+      "sha256": "59864643da0a6f102782f569863c335403a927aa7028f37c2805784a47181c00",
+      "size": 535815
+    },
+    {
+      "path": "covers/mega_man_7.png",
+      "sha256": "45c09e8bcda48b942ec56615592b9f587c98af44d569be885b7c36778907f97d",
+      "size": 335431
+    },
+    {
+      "path": "covers/mega_man_soccer.png",
+      "sha256": "9c0afc96b0a18bece21f3542bc7eb810f48352450aaa32fec9702ebc247b773e",
+      "size": 581542
+    },
+    {
+      "path": "covers/mega_man_x.png",
+      "sha256": "24907a599bb15425e67a68589abee4ad4610f3899512001234c178cf1cea925c",
+      "size": 541689
+    },
+    {
+      "path": "covers/mega_man_x2.png",
+      "sha256": "8868dca0d1ad992b060b679855a736fc95ee43d066b22b8df80a649c5aaff85c",
+      "size": 588390
+    },
+    {
+      "path": "covers/mega_man_x3.png",
+      "sha256": "f0be2252bcd6dc7daceb97b077b2fc55c4a553e6f133686ae63d8b933b73668e",
+      "size": 590110
+    },
+    {
+      "path": "covers/melonds.png",
+      "sha256": "50b19d1eecf6069df1dcfae3927e20c4d6991d5e21d2980719c6503a4140d9f2",
+      "size": 203566
+    },
+    {
+      "path": "covers/metroid.png",
+      "sha256": "a6fde9a9a152314153125f5a1fbd04e702031880f3010453f3065a4b478a334d",
+      "size": 115204
+    },
+    {
+      "path": "covers/metroid_-_fusion.png",
+      "sha256": "9c3b558429cccd01da0cdf1fa9fa01b8f39607b35affd65803ec9b96de49c38f",
+      "size": 508432
+    },
+    {
+      "path": "covers/metroid_-_zero_mission.png",
+      "sha256": "41b49e6982c687d966562ccc4985ed65dc40789411cabc26c07aa922d7f9c294",
+      "size": 23244
+    },
+    {
+      "path": "covers/mgba.png",
+      "sha256": "d7e92855d11557acf5672daf86dff6a2b91953ee61989013cfc0e240a2dd9053",
+      "size": 143994
+    },
+    {
+      "path": "covers/monkey_ball_jr.png",
+      "sha256": "c6e1e2a0703c9fa89a00dd8703d61f17e80f467002ea43b9ce5bb951e491a3ab",
+      "size": 435543
+    },
+    {
+      "path": "covers/mortal_kombat.png",
+      "sha256": "635a6477c469a29c0238e96be0e549cd051144ea9df9789435349c930eb7af21",
+      "size": 360352
+    },
+    {
+      "path": "covers/mortal_kombat_-_deadly_alliance.png",
+      "sha256": "1be73bfb49d03cc6c40fcd93bab1b05e60e9f43ad24359a6e87f0f732671d3c6",
+      "size": 507158
+    },
+    {
+      "path": "covers/mortal_kombat_3.png",
+      "sha256": "b3561a2c3cdb79ddff00c7e646ce7a110bfd9301dcf505a46159ce76bb1364f4",
+      "size": 292726
+    },
+    {
+      "path": "covers/mortal_kombat_ii.png",
+      "sha256": "96c83f42382985cecd7f291cb69a7e4fd35a92e29c660f54806bfb4ecbb2b5bd",
+      "size": 291447
+    },
+    {
+      "path": "covers/mortal_kombat_trilogy.png",
+      "sha256": "9ada8082f237ca9c07f56c9ed1dfa4bfa4a9037c0a3d129f0ab2e7c2063eebf2",
+      "size": 282820
+    },
+    {
+      "path": "covers/mother_3.png",
+      "sha256": "99ba094fe6f155fe2179fc02ef75bbf6de4570f93a1c5e415f64fd0d8b63ebe6",
+      "size": 77636
+    },
+    {
+      "path": "covers/new_super_mario_bros.png",
+      "sha256": "6b3de69a000e6a4c1ff260d03419f60d733117d0e890dc848ccd276923b6a632",
+      "size": 784333
+    },
+    {
+      "path": "covers/new_super_mario_bros_2.png",
+      "sha256": "33b8513f049c719cc570dbd7dcc5539d921456340973ebc89da041268699b9d9",
+      "size": 1252718
+    },
+    {
+      "path": "covers/pacman_collection.png",
+      "sha256": "56b8b3498e276d62c3e62c74d993360f503460c980bae293d3eda8d37479f69e",
+      "size": 151158
+    },
+    {
+      "path": "covers/paper_mario.png",
+      "sha256": "350a2c3dd2a5ac4c114f29869fedeb7e1e276ec7922599924b66d70249b1bb16",
+      "size": 430194
+    },
+    {
+      "path": "covers/paper_mario_sticker_star.png",
+      "sha256": "9b725c04e0469f371c68ae054e359034d520bc5f6545e44b1fbc96ac3b95514b",
+      "size": 589678
+    },
+    {
+      "path": "covers/parappa_the_rapper.png",
+      "sha256": "16563299e1036d731fa0c4b8a26e73afedefab884d0ad5082bd029a2f001d58a",
+      "size": 205235
+    },
+    {
+      "path": "covers/pcsx2.png",
+      "sha256": "0657daf34165bba809204e5636df767fa8dcb207fe1bed78f57ad8e2d94cad17",
+      "size": 161450
+    },
+    {
+      "path": "covers/persona.png",
+      "sha256": "6852c50c4d28ce2acf09219d81f6e9c621a0b716606ea930874415f8fb743dd7",
+      "size": 376401
+    },
+    {
+      "path": "covers/persona_2_-_eternal_punishment.png",
+      "sha256": "c96d32813f5ebdc617cb2d9ea4872dd3bb457c275b6566150c9e2e605581af30",
+      "size": 164866
+    },
+    {
+      "path": "covers/persona_2_innocent_sin.png",
+      "sha256": "3e8898bd96b004ecc1a3b8271bbae404a1201dd1e80c215b3a3cd085823adfbc",
+      "size": 188878
+    },
+    {
+      "path": "covers/persona_3_portable.png",
+      "sha256": "ab486f0d2e81f2df79d0703b790883976959cc8be52766e2a2ce818c6ae189d9",
+      "size": 86835
+    },
+    {
+      "path": "covers/persona_psp.png",
+      "sha256": "5ced2b3c01b9db05057b46718915ca2f5af3e9423c294035327128bbc15429b2",
+      "size": 80537
+    },
+    {
+      "path": "covers/pokemini.png",
+      "sha256": "ed6d093657ca7aa478d1cdfe69cbe3ef6e2515c713cbcf4104f3d56784b597d7",
+      "size": 17749
+    },
+    {
+      "path": "covers/pokemon_-_diamond_version.png",
+      "sha256": "9b43f4acd0c4b9900f61b0e4ee4a256c2d1a0d8bd27371f4813b7ccba9b576b5",
+      "size": 374533
+    },
+    {
+      "path": "covers/pokemon_-_emerald_version.png",
+      "sha256": "b55e9f4d0548938e3e467c811e8eea792f22cc9c8801f775e5491fdbb2d186ed",
+      "size": 90782
+    },
+    {
+      "path": "covers/pokemon_-_fire_red.png",
+      "sha256": "d8d84289230a5e2048d2c5db0b31608c918369d09b25f8957ee4d6ca1ae13ecd",
+      "size": 107378
+    },
+    {
+      "path": "covers/pokemon_-_leaf_green.png",
+      "sha256": "024fcaedf3a8062c74fda8ec750baf5f445ec6e0b79b258a6afad1dca35e33f6",
+      "size": 266132
+    },
+    {
+      "path": "covers/pokemon_-_ruby_version.png",
+      "sha256": "f70a3636e0eb84724f1ccaf433be9a0ba2160498781f683438840f44c4b9a59e",
+      "size": 391918
+    },
+    {
+      "path": "covers/pokemon_-_sapphire_version.png",
+      "sha256": "13ae0ce505a329e80bd3ecc31c2d409e49561871fe8817574243e6f730b779b7",
+      "size": 1376048
+    },
+    {
+      "path": "covers/pokemon_-_soulsilver_version.png",
+      "sha256": "941968b622cf6017c78ba902877249ad32b3de85456f0bd38f65e1877679d2fa",
+      "size": 1211777
+    },
+    {
+      "path": "covers/pokemon_mystery_dungeon_-_red_rescue_team.png",
+      "sha256": "ba8c79c0a8ce06c9dd11dc602b91414f3a562bfece2e71c6c7c8b4e20c095bc4",
+      "size": 325771
+    },
+    {
+      "path": "covers/pokemon_party_mini.png",
+      "sha256": "2d2ef74573e888090db0a77ff4c4f58a9723c9008b63439133eae50d87cb6848",
+      "size": 330923
+    },
+    {
+      "path": "covers/pokemon_pinball_-_ruby_sapphire.png",
+      "sha256": "e1db0824c274bc9a751aad26bd98903b647e1b231c3c490a58a2826062128897",
+      "size": 313154
+    },
+    {
+      "path": "covers/pokemon_pinball_mini.png",
+      "sha256": "824701de02452bc12a71aa97a4102bd6065de2d687b7221e21bb7a000739cb7f",
+      "size": 85040
+    },
+    {
+      "path": "covers/pokemon_puzzle_collection.png",
+      "sha256": "fc9ddd486024e5fd3356a48e7a42dd0e3db5594a150e5ef9eeaf51988f7e29c4",
+      "size": 54990
+    },
+    {
+      "path": "covers/pokemon_x.png",
+      "sha256": "8bb3e6d2d3071755887b18c261c9ab54d5146e04357f8a2bd7ff39bd586e530b",
+      "size": 501962
+    },
+    {
+      "path": "covers/pokemon_y.png",
+      "sha256": "8aa81181d070cb707134307b2bf756892c9739ab2363e2f997a36c15293543d9",
+      "size": 375703
+    },
+    {
+      "path": "covers/pokémon_puzzle_league.png",
+      "sha256": "0191d3611448fd6479f0bb68e68be055fafba969f63049259d19429c4245c108",
+      "size": 131166
+    },
+    {
+      "path": "covers/pokémon_snap.png",
+      "sha256": "2abd5859a59b1326ddb2d6e45d5b31439358c8e58268ebf1f3f5bb5d7608eb11",
+      "size": 554398
+    },
+    {
+      "path": "covers/pokémon_stadium.png",
+      "sha256": "8aa1de68b24764f4a3c4d145a94c62be295237bfe7899764f69ac37c37d4a481",
+      "size": 476791
+    },
+    {
+      "path": "covers/pokémon_stadium_2.png",
+      "sha256": "d2ecbcb70b0f3bd66f5bfd739997de2fad7a57d45e4e89c18486ce7a24de8a22",
+      "size": 319199
+    },
+    {
+      "path": "covers/poochy_yoshi's_woolly_world.png",
+      "sha256": "7d9ab2fab3eb70157107b415be72f5b1507d159234364ef2145970177df88a4b",
+      "size": 486232
+    },
+    {
+      "path": "covers/ppsspp.png",
+      "sha256": "1b419f0cab368a2f7d1b9335255713979327ba0c7e9dd6b0481ab9d95ea3060a",
+      "size": 171356
+    },
+    {
+      "path": "covers/project64.png",
+      "sha256": "20471ba6f7ab93b9c92205224a7cbc316bafcb00c23b33aab14c37919394c691",
+      "size": 9608
+    },
+    {
+      "path": "covers/punch-out.png",
+      "sha256": "d21875a0293bb4638e57e9d4c6454d5f189631e5644d7a0506c9a8cc23a82b5a",
+      "size": 501651
+    },
+    {
+      "path": "covers/punes.png",
+      "sha256": "86c64611443763886d13da6642417365df1d6be0f2785eb23c2f3cf0d6b07743",
+      "size": 4608
+    },
+    {
+      "path": "covers/ratchet_clank_size_matters.png",
+      "sha256": "cdaf92880a546e840f63e0f4ca4096dabcd8c34eca14b954f6b4937bd83ce9f0",
+      "size": 529392
+    },
+    {
+      "path": "covers/reddragon.png",
+      "sha256": "e4f460bf530a2be4f75c14aec4de0fa0f61a7bd54fd65bf312d17baa8cf5a3df",
+      "size": 25508
+    },
+    {
+      "path": "covers/resident_evil_2.png",
+      "sha256": "fafaa6e0210ef310ffef1cbf9026e319d6e3c729543cce7118527a12f83d167d",
+      "size": 116664
+    },
+    {
+      "path": "covers/rhythm_heaven.png",
+      "sha256": "6def093ba36767e118e17869f4e059eef6ad689610170d53d4d1fb37f3e17aa4",
+      "size": 207751
+    },
+    {
+      "path": "covers/rhythm_tengoku.png",
+      "sha256": "82af983809a49f46249a38a429ef3648a05f94af615f40cec7db6b2169902fe8",
+      "size": 144157
+    },
+    {
+      "path": "covers/ryujinx.png",
+      "sha256": "fce5e72032d3b6bba514c4a81632a66ec69a170cc86893ef9f7a16b6c31fb730",
+      "size": 100379
+    },
+    {
+      "path": "covers/snes9x.png",
+      "sha256": "d083632efe5f8414b13e346ee025819097d8f0a15f2f05153f6491a4c410cf9e",
+      "size": 4758
+    },
+    {
+      "path": "covers/sonic_3d_blast.png",
+      "sha256": "68139509e0226ceaf9d3c2dffe6f5d1c9444cba2e12655abb2b38c7cff7ab4e0",
+      "size": 386379
+    },
+    {
+      "path": "covers/sonic_advance.png",
+      "sha256": "881c8e39739d0b010bee639b60479c754aca515c2dceafcc08464424402d0be0",
+      "size": 349345
+    },
+    {
+      "path": "covers/sonic_advance_2.png",
+      "sha256": "b7de73788056fc7636cb6a4341ab11f4be7283d51092e520ec178387f632fde4",
+      "size": 360769
+    },
+    {
+      "path": "covers/sonic_advance_3.png",
+      "sha256": "6f5cf45f769a48725bc8d5791c93fcc9bf3b559c6ed583d2b92175d98a545552",
+      "size": 350518
+    },
+    {
+      "path": "covers/sonic_adventure.png",
+      "sha256": "8a9765f2748a87545b23b8fab2b4210b7f5383059691924c9426a32c456be7b1",
+      "size": 242606
+    },
+    {
+      "path": "covers/sonic_adventure_2_enjafrdees.png",
+      "sha256": "183f1c7cb1fa6ff0addc948dfe378e20f284eea087cd36c7332cad8ea59da6bc",
+      "size": 467773
+    },
+    {
+      "path": "covers/sonic_battle.png",
+      "sha256": "ddcf3fc3bef5512b746b508826c014e0ee0cd0d1db7139d8d67fc75c616762c1",
+      "size": 459010
+    },
+    {
+      "path": "covers/sonic_blast_man.png",
+      "sha256": "e66b68656496afe02b21a4d5c91db1ae91aa4d651e2dc2c6dff81ae33e9b5802",
+      "size": 626757
+    },
+    {
+      "path": "covers/sonic_blast_man_ii.png",
+      "sha256": "64aa7e9d7d20eb26cf99313a61cc7d6be19adab1472eb7ea9d1ffaa6a4526205",
+      "size": 533524
+    },
+    {
+      "path": "covers/sonic_chronicles_-_the_dark_brotherhood.png",
+      "sha256": "4441c503f1d53f0b547965f4d3ca5aa1276312b4f58d0cdc1eef220623a34b49",
+      "size": 1239346
+    },
+    {
+      "path": "covers/sonic_colors.png",
+      "sha256": "c4ca750e2884ef8424c45509dabc425bcfe86fbf6d5dfc424159b5c863be309d",
+      "size": 1240462
+    },
+    {
+      "path": "covers/sonic_knuckles_sonic_the_hedgehog_3.png",
+      "sha256": "ffc31eea170b630c741b0dac2a55d09baf853b39a555eb58b0ea6e968dbd74fc",
+      "size": 248653
+    },
+    {
+      "path": "covers/sonic_pinball_party.png",
+      "sha256": "18aca7869acdc39619b102d21ad792a020b4ca163385f82873eae6454d91bcc4",
+      "size": 391329
+    },
+    {
+      "path": "covers/sonic_rush.png",
+      "sha256": "e410b9c6a46892755a83c7600eaa4bf261d14b5a858ea3d99931c18cbe85aee7",
+      "size": 276683
+    },
+    {
+      "path": "covers/sonic_the_hedgehog.png",
+      "sha256": "715cbef12761703a58c184649482d18554436b534cf643f179c4bad94f6d98a2",
+      "size": 193646
+    },
+    {
+      "path": "covers/sonic_the_hedgehog_3.png",
+      "sha256": "6c0ad7dcdd18a946ce8082c9b58c8bf8e34b8335e61fff92ae00d7bd9fccb241",
+      "size": 253674
+    },
+    {
+      "path": "covers/space_invaders.png",
+      "sha256": "1c6c7593ed7730ff586ea5f0f5516d2acaae435d95431e33d3fe5d1b2d4af656",
+      "size": 282102
+    },
+    {
+      "path": "covers/space_invaders_-_virtual_collection.png",
+      "sha256": "b38d0f36d07f04505f593fbc129b6b961bfcfd82e2413a36d03c77cc73b15999",
+      "size": 408693
+    },
+    {
+      "path": "covers/star_fox.png",
+      "sha256": "f3887d1fa8fc5e6ce2ad6e53564e2a6da2ab0726f12304c270947fb522f9b880",
+      "size": 466010
+    },
+    {
+      "path": "covers/star_fox_2.png",
+      "sha256": "78586521e0d6bff550991ac53590c6e5db3f0f7e2c4cb4d6133a602ff3dc8f7e",
+      "size": 552268
+    },
+    {
+      "path": "covers/star_fox_64.png",
+      "sha256": "0accc51095c4bc63697128fe290c5c3e4391b637597ad932325334b52d215aa6",
+      "size": 518507
+    },
+    {
+      "path": "covers/street_fighter_2010_-_the_final_fight.png",
+      "sha256": "f48bcd0dbda046e806a4af1f68433378ed2ea7744bc91fe000f4902670fda9a8",
+      "size": 544675
+    },
+    {
+      "path": "covers/street_fighter_ii.png",
+      "sha256": "a551c6a98d336d10bdc83eaa1c54f8417390a64f57f3a5db43f2aaf302d7bab5",
+      "size": 462277
+    },
+    {
+      "path": "covers/street_fighter_ii_turbo.png",
+      "sha256": "aaef728c871dbf0a2ad4e718d177b4717854c56aac795fffa2060a32f037def7",
+      "size": 629088
+    },
+    {
+      "path": "covers/super_bomberman.png",
+      "sha256": "cdaea60508d24eeb502de2bdaec30b2758c62823189d0ace491112a5cce2ad75",
+      "size": 452804
+    },
+    {
+      "path": "covers/super_bomberman_2.png",
+      "sha256": "a31b0d070bcff4ef1dc191c3309b131697fb7b901fce82ebeca2cb45c9f8b290",
+      "size": 571814
+    },
+    {
+      "path": "covers/super_mario_3d_land.png",
+      "sha256": "6168c42c3d48db535047c3312bbf305a2bbe264ce26e743005353f40d7e1b9e3",
+      "size": 418044
+    },
+    {
+      "path": "covers/super_mario_64.png",
+      "sha256": "6e6d313313b3ddce63f1cc283fa2fb0e0c707e7909333a6d98bcfed4d37a3ffd",
+      "size": 411351
+    },
+    {
+      "path": "covers/super_mario_64_ds.png",
+      "sha256": "8c56350c846153cd4a4d3d8a477aafd1ca5df014180509df3a369337a16fdf60",
+      "size": 492392
+    },
+    {
+      "path": "covers/super_mario_advance_3_-_yoshi's_island.png",
+      "sha256": "89b5b5f64a1d56bc35696020e25420bf1daf022ac6a1b606e345b9e090278c7b",
+      "size": 496118
+    },
+    {
+      "path": "covers/super_mario_all-stars.png",
+      "sha256": "8856a1790b37d53d54d8f1bb77700816d29553e2743ae21237aceac5855b6d9b",
+      "size": 233791
+    },
+    {
+      "path": "covers/super_mario_all-stars_super_mario_world.png",
+      "sha256": "09262df3383b304e83da6dad575b1a3c8f775a27869c146fcec0184c735b4d4e",
+      "size": 364452
+    },
+    {
+      "path": "covers/super_mario_bros.png",
+      "sha256": "6c6dff85824b1418771ba15f04dc95ea107750502248766d555d7a0105b9c47b",
+      "size": 129352
+    },
+    {
+      "path": "covers/super_mario_bros_2.png",
+      "sha256": "c7e7d111ea33f18c8e31e9561d7bafc38c4764f35e52ec41a7fd5c2f303edd6a",
+      "size": 405989
+    },
+    {
+      "path": "covers/super_mario_bros_3.png",
+      "sha256": "92e231931bf9baf24d754363af932485987ca1dbe23331f0ccbf71fb66f2a941",
+      "size": 525792
+    },
+    {
+      "path": "covers/super_mario_kart.png",
+      "sha256": "64fc8483be1ea188aa7e2a8e336827fb1415ca444340bf503fa4a6805271fa0c",
+      "size": 339696
+    },
+    {
+      "path": "covers/super_mario_rpg_legend_of_the_seven_stars.png",
+      "sha256": "6e8c55a0d313f5bbb2946c65f284a4b1b86802f59355b29c1dab7afed3548f32",
+      "size": 271564
+    },
+    {
+      "path": "covers/super_mario_world.png",
+      "sha256": "6d3863ae202497c7a55ee570a5056199db7b0b66a65085feab5cd7ec791beda8",
+      "size": 505053
+    },
+    {
+      "path": "covers/super_mario_world_2_yoshi's_island.png",
+      "sha256": "6df419803c21fc2dfb7dc373383ea03484819f79b7944081a32841e43ae2a099",
+      "size": 401607
+    },
+    {
+      "path": "covers/super_smash_bros.png",
+      "sha256": "c981d7fdd91b1ca717bf16979fc75198fe13791c8d207d1bcaf97b0085f7d656",
+      "size": 90784
+    },
+    {
+      "path": "covers/super_smash_bros_for_3ds.png",
+      "sha256": "e780000a0bcec5315a2890153388fde4b9ecfd2077a12af1f6eae23d75b0d151",
+      "size": 586232
+    },
+    {
+      "path": "covers/tetris.png",
+      "sha256": "562e3fa28a0db498a84b623691b7c676ffd6e76c2c25a84f72cb1366b87f98ed",
+      "size": 92731
+    },
+    {
+      "path": "covers/the_legend_of_zelda-_phantom_hourglass.png",
+      "sha256": "5970bcb5b2a5e959c6862e01829f7e4641277fdeb3dbe7a2254ec7eac4f5edcf",
+      "size": 438268
+    },
+    {
+      "path": "covers/the_legend_of_zelda.png",
+      "sha256": "ab72fd4f828d1377d819f84c4a669ac7ea57c837d319fe98217259f25629ebf5",
+      "size": 547842
+    },
+    {
+      "path": "covers/the_legend_of_zelda_-_a_link_to_the_past_four_swords.png",
+      "sha256": "644b5ba69bd58492f21a25a50732137148f12ea044d1568348ae5aaaafb1c6ee",
+      "size": 1620042
+    },
+    {
+      "path": "covers/the_legend_of_zelda_-_spirit_tracks.png",
+      "sha256": "0f0ab10b5e10c97017d8622d9f58f757e0329fd0f85dfd4e88aceb062966a226",
+      "size": 480417
+    },
+    {
+      "path": "covers/the_legend_of_zelda_a_link_to_the_past.png",
+      "sha256": "02a4c32662e710c09c837770b1027d6c959f1975e11fb4ec9cdf845b60844af7",
+      "size": 470035
+    },
+    {
+      "path": "covers/the_legend_of_zelda_majora's_mask.png",
+      "sha256": "6a2f4faf9c7265093c45ba97e74a83a6934777411ecc6986d1da390e973aa7f7",
+      "size": 341152
+    },
+    {
+      "path": "covers/the_legend_of_zelda_ocarina_of_time.png",
+      "sha256": "388532e83071ae30aee0ac1a504fc48297964e3930ce26231960dcc6fe138336",
+      "size": 399055
+    },
+    {
+      "path": "covers/tomodachi_life.png",
+      "sha256": "09e621d73891322b5a062d8e4baf69c32073095cc5187e25f9a1263561e61537",
+      "size": 366497
+    },
+    {
+      "path": "covers/wario_land_4.png",
+      "sha256": "0d4f950d17ca6b4f7ee541482affaf61941058fdafe0a92e67b3731c726e233e",
+      "size": 541776
+    },
+    {
+      "path": "covers/wario_ware_inc.png",
+      "sha256": "f5612a143b91bba8889d43a409beed479128eec0e658db5266812513963351d8",
+      "size": 746769
+    },
+    {
+      "path": "covers/warioware_-_diy.png",
+      "sha256": "e082263fb4999bb73126f7791bec9b657126320b8f631b2fb4d40c0c3fd5e89a",
+      "size": 520621
+    },
+    {
+      "path": "covers/warioware_gold.png",
+      "sha256": "1cce9707a110efbfed46d7b6a9754f94d94085818ef9ec06097176ed4ef301f4",
+      "size": 638559
+    },
+    {
+      "path": "covers/warioware_touched.png",
+      "sha256": "42e4aa4a06b90defe7c112cd0cb1120b3b48ca99591ac5078d95c4b952857395",
+      "size": 714911
+    },
+    {
+      "path": "covers/wolfenstein_3d.png",
+      "sha256": "6cb136c2ae04266650efe7e4a438466a86dc6ddf19e34a6b25ee8cc5c6ab2494",
+      "size": 477026
+    },
+    {
+      "path": "covers/yo-kai_watch.png",
+      "sha256": "721239be7a90831bc3b60a843448a34cb8e30c0c578cf08d08b186c69096cf14",
+      "size": 104009
+    },
+    {
+      "path": "covers/yo-kai_watch_3.png",
+      "sha256": "f9fb795e4b8c336f41f8fbd28b8510353c39b1a26aa70bfc7712394e50cd867a",
+      "size": 36036
+    },
+    {
+      "path": "covers/yo-kai_watch_blasters_red_cat_corps.png",
+      "sha256": "8a015b8b7d75825b0d29ba002e33a5f6af8a8b6ff02fed53566ca38bf4a7026f",
+      "size": 1197251
+    },
+    {
+      "path": "covers/yo-kaizo_watch_2.png",
+      "sha256": "993485bb8cf99a02682fa292e2cff4d2b1f1b58816756e80a450353c7a98d4a1",
+      "size": 106350
+    },
+    {
+      "path": "covers/yoshi's_cookie.png",
+      "sha256": "6d40907d92b912f05bfeccec43ff07f88dac3d19d169799510b3faa33ebd9ffd",
+      "size": 472915
+    },
+    {
+      "path": "covers/yoshi's_island_ds.png",
+      "sha256": "bd930784b4401f36ac768c1836365ff2c158de500808075daee2ce307cc4b1a3",
+      "size": 322038
+    },
+    {
+      "path": "covers/yoshi's_new_island.png",
+      "sha256": "87e2c4a931e0a189d1f7ef69fbe40c8c7a6210a5616544321d99735cbc27b721",
+      "size": 108781
+    },
+    {
+      "path": "covers/yoshi's_safari.png",
+      "sha256": "71260cd27c015f81f40b5d547f8e8e3dc26593e5a233d2aa09ba4bc2a32ff324",
+      "size": 339351
+    },
+    {
+      "path": "covers/yoshi's_story.png",
+      "sha256": "9fd9799ab94a28c9d43018e5878659e9dd43c58ea3ae1f096317a7fc7523cf03",
+      "size": 1261469
+    },
+    {
+      "path": "covers/yoshi_touch_go.png",
+      "sha256": "39d77cbb484794424c859c9b6b3dc0a89dff4c82c09ed396533aef962db729fa",
+      "size": 471716
+    },
+    {
+      "path": "covers/zelda_-_the_minish_cap.png",
+      "sha256": "d682b32d89ada324a7901ceb6cbd4cccd15ceefbc3824c9d1dc306de658ebfc6",
+      "size": 606023
+    },
+    {
+      "path": "covers/zelda_ii_the_adventure_of_link.png",
+      "sha256": "df545e3435e8b536f235aff8272373672ac8106cbb1ef196eb05d0fc4abedcd8",
+      "size": 393137
+    }
+  ]
+}
