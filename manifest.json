@@ -1,21 +1,21 @@
 {
-  "version": "20260306221714",
-  "generatedAt": "2026-03-06T22:17:18.667315+00:00",
+  "version": "20260311000454",
+  "generatedAt": "2026-03-11T00:04:57.405389+00:00",
   "files": [
     {
       "path": "data/games.json",
-      "sha256": "e7df445fb8c237166d2d66513b2712e2abbcd1ca8858fe9e4fd8f597d838a370",
-      "size": 185266
+      "sha256": "089694d935c0249b080fbe9680070c11339ae0914d4dffb7fa6121787b300f70",
+      "size": 182713
     },
     {
       "path": "data/emulators.json",
-      "sha256": "eb4c1857e6c15f66c6cc23bf82c0fad16701d43cf275bae831424676d69b976b",
-      "size": 4581
+      "sha256": "a456658f0976ea03ac644e6ed0129e1baf96d59661757ca5e2385987583d0cfa",
+      "size": 4450
     },
     {
       "path": "data/tools.json",
-      "sha256": "50bb38bc7f0f076175d4eee7ea345f9da7813bd794946da38b8c0fc7d45e7331",
-      "size": 829
+      "sha256": "48b3e825496e46503a44dc451f4632c1fecbecf4d002c0ab04a66f899dc92f22",
+      "size": 828
     },
     {
       "path": "covers/3-d_tetris.png",
