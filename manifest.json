@@ -1,6 +1,6 @@
 {
-  "version": "20260311000454",
-  "generatedAt": "2026-03-11T00:04:57.405389+00:00",
+  "version": "20260311032939",
+  "generatedAt": "2026-03-11T03:29:46.139735+00:00",
   "files": [
     {
       "path": "data/games.json",
@@ -14,8 +14,8 @@
     },
     {
       "path": "data/tools.json",
-      "sha256": "48b3e825496e46503a44dc451f4632c1fecbecf4d002c0ab04a66f899dc92f22",
-      "size": 828
+      "sha256": "31b6f782790b9197e830adc338b519ee461ee1b020255f5d6b18bbf156694b3a",
+      "size": 1241
     },
     {
       "path": "covers/3-d_tetris.png",
@@ -1091,6 +1091,11 @@
       "path": "covers/super_smash_bros_for_3ds.png",
       "sha256": "e780000a0bcec5315a2890153388fde4b9ecfd2077a12af1f6eae23d75b0d151",
       "size": 586232
+    },
+    {
+      "path": "covers/switchfirmware.png",
+      "sha256": "45b8be9126218061c70584b1e0dbfae57ee94aabf9949a1d88b4ed3646077731",
+      "size": 10641
     },
     {
       "path": "covers/tetris.png",

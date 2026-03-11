@@ -22,5 +22,17 @@
     "cover": "7zip.png",
     "driveFileId": "1g-F0UkzfJ46FT9jh4bl3bcOHXjgKLnKS",
     "directUrl": "https://drive.google.com/uc?export=download&id=1g-F0UkzfJ46FT9jh4bl3bcOHXjgKLnKS"
+  },
+  {
+    "id": "tool_3",
+    "title": "Switch Firmware 19.0.1",
+    "category": "BIOS",
+    "console": "Switch",
+    "franchise": "Tools",
+    "description": "Version 19.0.1 for Ryujinx/Switch.",
+    "size": "322 MB",
+    "cover": "switchfirmware.png",
+    "driveFileId": "15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di",
+    "directUrl": "https://drive.google.com/uc?export=download&id=15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di"
   }
 ]
