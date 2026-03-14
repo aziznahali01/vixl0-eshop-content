@@ -34,5 +34,17 @@
     "cover": "switchfirmware.png",
     "driveFileId": "15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di",
     "directUrl": "https://drive.google.com/uc?export=download&id=15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di"
+  },
+  {
+    "id": "tool_4",
+    "title": "PS1 BIOS",
+    "category": "BIOS",
+    "console": "PS1",
+    "franchise": "Tools",
+    "description": "BIOS files to play ps1 games.",
+    "size": "1.5 MB",
+    "cover": "ps1bios.png",
+    "driveFileId": "1HYXE5Hnc5F6aTP-BelkRAsn3qVEzx8ir|1qIB7HTDJgDootFwKlKzzBT-fFNvcW61F|1KHzp7RcLyBfIsaI3XKh9G_mfd6z9kjEA",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1HYXE5Hnc5F6aTP-BelkRAsn3qVEzx8ir|https://drive.google.com/uc?export=download&id=1qIB7HTDJgDootFwKlKzzBT-fFNvcW61F|https://drive.google.com/uc?export=download&id=1KHzp7RcLyBfIsaI3XKh9G_mfd6z9kjEA"
   }
 ]

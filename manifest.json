@@ -1,11 +1,11 @@
 {
-  "version": "20260311034040",
-  "generatedAt": "2026-03-11T03:40:45.162826+00:00",
+  "version": "20260314074920",
+  "generatedAt": "2026-03-14T07:49:23.035541+00:00",
   "files": [
     {
       "path": "data/games.json",
-      "sha256": "089694d935c0249b080fbe9680070c11339ae0914d4dffb7fa6121787b300f70",
-      "size": 182713
+      "sha256": "5e2ee96ba19207012d56fd4198b1795c958d1c063b149cc0d0cf9d0ca9fa6aff",
+      "size": 182738
     },
     {
       "path": "data/emulators.json",
@@ -14,8 +14,8 @@
     },
     {
       "path": "data/tools.json",
-      "sha256": "31b6f782790b9197e830adc338b519ee461ee1b020255f5d6b18bbf156694b3a",
-      "size": 1241
+      "sha256": "1e9e72f9e6305f37791bda655c31787d230741e06292933d377409cbce6ccfe9",
+      "size": 1855
     },
     {
       "path": "covers/3-d_tetris.png",
@@ -731,6 +731,11 @@
       "path": "covers/persona_psp.png",
       "sha256": "5ced2b3c01b9db05057b46718915ca2f5af3e9423c294035327128bbc15429b2",
       "size": 80537
+    },
+    {
+      "path": "covers/plants_vs_zombies.png",
+      "sha256": "c7a88a40c0008a1c5af4ac95da88a2c9bafd4a85768062a11371f712221aeaee",
+      "size": 521565
     },
     {
       "path": "covers/pokemini.png",
