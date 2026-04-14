@@ -1,6 +1,6 @@
 {
-  "version": "20260414005553",
-  "generatedAt": "2026-04-14T00:55:55.862211+00:00",
+  "version": "20260414223127",
+  "generatedAt": "2026-04-14T22:31:30.397351+00:00",
   "files": [
     {
       "path": "data/games.json",
@@ -14,8 +14,8 @@
     },
     {
       "path": "data/tools.json",
-      "sha256": "1e9e72f9e6305f37791bda655c31787d230741e06292933d377409cbce6ccfe9",
-      "size": 1855
+      "sha256": "aa715fbc71710a65fe8bfd078d3293abe3a335e36c665522ebcade3e7fceee11",
+      "size": 1970
     },
     {
       "path": "covers/3-d_tetris.png",

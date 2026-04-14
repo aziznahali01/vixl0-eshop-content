@@ -25,15 +25,15 @@
   },
   {
     "id": "tool_3",
-    "title": "Switch Firmware 19.0.1",
+    "title": "Switch Firmware 22.1.0",
     "category": "BIOS",
     "console": "Switch",
     "franchise": "Tools",
-    "description": "Version 19.0.1 for Ryujinx/Switch.",
+    "description": "Version 22.1.0 for Ryujinx/Switch.",
     "size": "322 MB",
     "cover": "switchfirmware.png",
-    "driveFileId": "15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di",
-    "directUrl": "https://drive.google.com/uc?export=download&id=15M3vWsZg6gOo62_G9rsiVM9T8r3lE8di"
+    "driveFileId": "1ttWAnZVJ4-2WyWDX4VyWqt0UaoRQxknF|15UvJcPpA4E4I_3Yib1tXHOaCpsipKomV",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1ttWAnZVJ4-2WyWDX4VyWqt0UaoRQxknF|https://drive.google.com/uc?export=download&id=15UvJcPpA4E4I_3Yib1tXHOaCpsipKomV"
   },
   {
     "id": "tool_4",
