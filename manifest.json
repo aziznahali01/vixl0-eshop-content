@@ -1,11 +1,11 @@
 {
-  "version": "20260314074920",
-  "generatedAt": "2026-03-14T07:49:23.035541+00:00",
+  "version": "20260414005553",
+  "generatedAt": "2026-04-14T00:55:55.862211+00:00",
   "files": [
     {
       "path": "data/games.json",
-      "sha256": "5e2ee96ba19207012d56fd4198b1795c958d1c063b149cc0d0cf9d0ca9fa6aff",
-      "size": 182738
+      "sha256": "c9af76a6c5c62bc471e60f58c154caee1935a50ddb59ce1b777cda61cba85a2f",
+      "size": 183486
     },
     {
       "path": "data/emulators.json",
@@ -1146,6 +1146,11 @@
       "path": "covers/tomodachi_life.png",
       "sha256": "09e621d73891322b5a062d8e4baf69c32073095cc5187e25f9a1263561e61537",
       "size": 366497
+    },
+    {
+      "path": "covers/tomodachi_life_living_the_dream.png",
+      "sha256": "33eaf5f0a39247920e6ae9792b63c55f1b3d0b8c9f15d2b07d6a18a012947f3a",
+      "size": 397724
     },
     {
       "path": "covers/wario_land_4.png",
