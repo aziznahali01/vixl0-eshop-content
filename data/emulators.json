@@ -128,5 +128,15 @@
     "cover": "covers\\ryujinx.png",
     "driveFileId": "10yB8Q4zKh5kJNWXJ4z8Uih-JFkDo0UgT",
     "directUrl": "https://drive.google.com/uc?export=download&id=10yB8Q4zKh5kJNWXJ4z8Uih-JFkDo0UgT"
+  },
+  {
+    "title": "Ryujinx Canary",
+    "console": "Switch",
+    "franchise": "Emulators",
+    "description": "Ryujinx for Switch.",
+    "size": "33.4 MB",
+    "cover": "covers\\ryujinx.png",
+    "driveFileId": "1dMvkbZsIdIWe4olTMMEhGuBLiOwFQYTR",
+    "directUrl": "https://drive.google.com/uc?export=download&id=1dMvkbZsIdIWe4olTMMEhGuBLiOwFQYTR"
   }
 ]
