@@ -1,6 +1,6 @@
 {
-  "version": "20260414223127",
-  "generatedAt": "2026-04-14T22:31:30.397351+00:00",
+  "version": "20260414231625",
+  "generatedAt": "2026-04-14T23:16:27.819589+00:00",
   "files": [
     {
       "path": "data/games.json",
@@ -9,8 +9,8 @@
     },
     {
       "path": "data/emulators.json",
-      "sha256": "a456658f0976ea03ac644e6ed0129e1baf96d59661757ca5e2385987583d0cfa",
-      "size": 4450
+      "sha256": "8583c88caf388cc49d93f67e302658ba6fe7c5db4f356e0b05971198f0c03f86",
+      "size": 4802
     },
     {
       "path": "data/tools.json",
